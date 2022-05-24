@@ -1,0 +1,60 @@
+#cabecera{
+	height: 100px;
+	background-color:  	red;
+	color: #ebdddd;
+	padding: 20px;
+	margin: 0 auto;
+}
+  .Logotipos {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+  }
+  .conteiner-contacto{
+	background-color:rgb(8, 8, 8);
+  }
+  .iconos-redes-header{
+	  width: 20px;
+	  margin: 10px 5px;
+  }
+  .imagecode{
+    margin-left: 20px;
+    width: 30%;
+    height: 30%;
+    border-radius: 20%;
+  }
+  
+  .iconos-redes-header{
+	width: 20px;
+	margin: 10px 5px;
+	border-radius: 50%
+  }
+  .fondo-azul {
+	background-color: #000000;
+	color: #fff;
+  }
+  .footer-nav {
+	background-color: #fcfcfcab;
+	color: #fff;
+  }
+  .card-img-top{
+	width: auto 1;
+	height: auto 1;
+  
+  }
+   .dj-banner{margin: 30px 0; position: relative;}
+   .dj-banner .dj-bg{background-image: url(/images/bg-img-banner.png); background-repeat: no-repeat; background-position: center; background-size: cover; width: 100%;}
+   .dj-banner .dj-bg img{display: block; margin: 20px auto; padding: 20px 0;}
+   .dj-banner .dj-text{text-align: center; padding-bottom: 20px;}
+   @media screen and (min-width:768px){
+  .dj-banner .dj-bg img{margin-right: 100px;}
+  .dj-banner .dj-text{position: absolute; top: 50%; left: 10%; transform: translate(-10%, -50%); width: 50%; text-align: left;}
+  .dj-banner .dj-text h1{font-size: calc(2*1.5vw);}
+  .dj-banner .dj-text p{font-size: calc(1.2*1.5vw);}
+   }
+
+   .col{
+    margin-right: 100px
+   }
+   .dj-text{text-align: center; padding-bottom: 20px; font-size: calc(2*1.5vw)}
+   .nav-link{padding-bottom: 20px; font-size:larger; }
